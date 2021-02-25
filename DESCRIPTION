@@ -1,0 +1,22 @@
+Package: mlpack
+Type: Package
+Title: Machine Learning methods calculator
+Version: 0.0.1
+Author: Piotr Minkowski, Paulina Żarnoch
+Maintainer: 
+            Piotr Minkowski <piotr.minkowski@edu.uni.lodz.pl>
+            Paulina Żarnoch <paulina.zarnoch@edu.uni.lodz.pl>
+Description: 
+        Pakiet ułatwia i zestawia wyniki dla problemów klasyfikacyjnych poszczególnych metod uczenia maszynowego. Zawiera dwa przykładowe zbiory danych.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.5.0)
+Imports: 
+    ggplot2,
+    caret,
+    e1071,
+    stringr,
+    dplyr,
+    randomForest
+RoxygenNote: 7.1.1
