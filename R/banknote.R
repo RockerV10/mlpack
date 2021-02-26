@@ -11,7 +11,7 @@
 #'
 #' \code{entropy} entropy of Wavelet Transform
 #'
-#' \code{class} forged ```1``` or geniuine ```0```
+#' \code{class} forged 1 or geniuine 0
 #'
 #' @docType data
 #'

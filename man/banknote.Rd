@@ -15,7 +15,7 @@ A data frame with 1372 non-null observations of 5 variables.
 
 \code{entropy} entropy of Wavelet Transform
 
-\code{class} forged ```1``` or geniuine ```0```
+\code{class} forged 1 or geniuine 0
 }
 \usage{
 banknote
